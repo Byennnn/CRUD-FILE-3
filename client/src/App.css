@@ -1,0 +1,28 @@
+.sidebar{
+    color: #fff;
+    width: 100vh;
+    font-size: large;
+    align-items: center;
+    
+    
+}
+
+.menu-bar{
+    height: 50vh;
+    
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    font-size: 1rem;
+
+}
+
+.pangsakto{
+    width: 179vh;
+    background-color: #fff;
+    height: 100%;
+}
+
+
+
