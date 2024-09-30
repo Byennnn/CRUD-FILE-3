@@ -35,8 +35,8 @@ function Users () {
             
                 
            <br></br> <h2>Warehouse Management</h2><br></br>
-                <Link to="/Warehouse" className='btn btn-success' >Receiving Items</Link>&nbsp;&nbsp;
-                <Link to="/Inventory" className='btn btn-success'>Process</Link>&nbsp;&nbsp;
+                <Link to="/Warehouse" className='btn btn-success' >Receiving Item</Link>&nbsp;&nbsp;
+                <Link to="/Inventory" className='btn btn-success'>Processs</Link>&nbsp;&nbsp;
                 <Link to="/Transportation"className='btn btn-success' >Stock Placement</Link>&nbsp;&nbsp;
                 <Link to="/Transportation"className='btn btn-success' >Outbound</Link>&nbsp;&nbsp;
             
